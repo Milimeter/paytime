@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1044357218824",
+    "firebase_url": "https://paytyme-44f64.firebaseio.com",
+    "project_id": "paytyme-44f64",
+    "storage_bucket": "paytyme-44f64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044357218824:android:06c621400a07ae417247bd",
+        "android_client_info": {
+          "package_name": "com.abdulrazaq.paytyme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044357218824-7ipcb2v7ta8em769n15sjgkhss2t395i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abdulrazaq.paytyme",
+            "certificate_hash": "83f72ec8c729dfc97ecd2400a36d36344dfb03b7"
+          }
+        },
+        {
+          "client_id": "1044357218824-lvo5hiqhci1o778psdfb3ophl5hq3143.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEHHiReOM2u18XOAhpwRSNCEM8YVTdzKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044357218824-lvo5hiqhci1o778psdfb3ophl5hq3143.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
